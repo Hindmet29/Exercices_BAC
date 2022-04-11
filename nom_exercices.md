@@ -1,3 +1,5 @@
+https://e-nsi.gitlab.io/pratique/N1/115-ind_prem_occ/sujet/
+
 # Exercices_BAC
 
 - Maximum
