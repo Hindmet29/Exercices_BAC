@@ -1,75 +1,75 @@
 # Exercices_BAC
 
--Maximum
+- Maximum
 
--Indice première occurrence
+- Indice première occurrence
 
--Dénivelé positif
+- Dénivelé positif
 
--Dernière occurrence
+- Dernière occurrence
 
--Moyenne simple
+- Moyenne simple
 
--Recherche d'indices
+- Recherche d'indices
 
--Soleil couchant
+- Soleil couchant
 
--Premier minimum local
+- Premier minimum local
 
--Nombres puis double
+- Nombres puis double
 
--Occurrences du minimum
+- Occurrences du minimum
 
--Multiplier sans *
+- Multiplier sans *
 
--Valeur et indice du max
+- Valeur et indice du max
 
--Compte d'occurrences
+- Compte d'occurrences
 
--Dentiste
+- Dentiste
 
--Liste des différences
+- Liste des différences
 
--Exclamations
+- Exclamations
 
--Est trié ?
+- Est trié ?
 
--Gelées
+- Gelées
 
--Renverser une chaîne
+- Renverser une chaîne
 
--Collage
+- Collage
 
--arange
+- arange
 
--Codage par différence
+- Codage par différence
 
--Palindrome
+- Palindrome
 
--Découpe
+- Découpe
 
--Anniversaires
+- Anniversaires
 
--Valeurs extrêmes
+- Valeurs extrêmes
 
--Couleurs
+- Couleurs
 
--Dictionnaire d'occurrences
+- Dictionnaire d'occurrences
 
--Le bon enclos
+- Le bon enclos
 
--Top-Likes !
+- Top-Likes !
 
--Dictionnaire des antécédents
+- Dictionnaire des antécédents
 
--Aplatir
+- Aplatir
 
--Suite de Syracuse
+- Suite de Syracuse
 
--Tous différents
+- Tous différents
 
--Moyenne pondérée
+- Moyenne pondérée
 
--Tri par sélection
+- Tri par sélection
 
--Hauteur et taille d'un arbre
+- Hauteur et taille d'un arbre
